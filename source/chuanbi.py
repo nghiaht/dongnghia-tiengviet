@@ -57,6 +57,5 @@ def LayLinkToanBo(link_file):
             LayLinkCon(u'http://tratu.soha.vn' + line)
 
 
-# Lay tu dong nghia tu mot link
-def LayTuDongNghia(link):
-    soup = 
+
+    
